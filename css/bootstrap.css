@@ -12280,13 +12280,5 @@ fieldset:disabled .btn {
     padding: 20px;
     text-align: center;
 }
-.offcanvas-header {
-    border-bottom: none;
-}
-.offcanvas {
-    background-color: red;
-}
-.offcanvas-top {
-    height: 50%;
-}
+
 
